@@ -1,0 +1,3 @@
+/home/appuser/Data/LABORATORIO_0_PCS2026/esercitazione1/build/CMakeFiles/MedieTemp.dir
+/home/appuser/Data/LABORATORIO_0_PCS2026/esercitazione1/build/CMakeFiles/edit_cache.dir
+/home/appuser/Data/LABORATORIO_0_PCS2026/esercitazione1/build/CMakeFiles/rebuild_cache.dir

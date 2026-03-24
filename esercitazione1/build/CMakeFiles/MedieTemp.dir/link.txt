@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/MedieTemp.dir/link.d CMakeFiles/MedieTemp.dir/main.cpp.o -o MedieTemp
