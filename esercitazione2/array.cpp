@@ -11,9 +11,13 @@
 
  (&y)[1] = 0;
 
- std::cout << x << "\n";
- std::cout << &x << "\n";
- std::cout << &y << "\n";
+ std::cout << "il valore di x è : " << x << "\n";
+ std::cout << "il valore di x è zero perchè (&y)[1] dice di spostarci all'indirizzo successivo, e spostandoci di 4 byte "
+              "(cioè lo spazio occupato in memoria da un float) ci ritroviamo nello spazio allocato per la variabile x,"
+              "in quanto è stata dichiarata subito prima di y . " << "\n";
+
+ std::cout << "l'indirizzo di x è : " <<  &x << "\n";
+ std::cout << "l'indirizzo di y è : " << &y << "\n";
 
  return 0;
  }
